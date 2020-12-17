@@ -24,6 +24,5 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Topic :: Software Development",
         "Operating System :: POSIX",
-        "Operating System :: Unix",
-    ],
+        "Operating System :: Unix" ],
     license="Appache-2.0",
