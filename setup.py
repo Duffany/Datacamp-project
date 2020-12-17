@@ -8,7 +8,7 @@ setup(
     description="A classification challenge that aims at building investment strategies on cryptocurrencies",
     long_description=open("README.md").read(),
     version=__version__,
-    author="Yassine DOUFANI & Hajar IBRARHI",
+    author="Yassine DOUFANI & Hajar IBARARHI",
     packages=find_packages(),
     install_requires=[],
     python_requires=">=3.6",
